@@ -1,0 +1,8 @@
+.home-section {
+    height: 100vh;
+    background: url('https://images.unsplash.com/photo-1498050108023-c5249f4df085') no-repeat center center/cover;
+    color: white;
+    text-align: center;
+    padding-top: 20vh;
+  }
+  
